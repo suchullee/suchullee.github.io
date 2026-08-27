@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Business Administration, [Sangmyung University](https://smubiz.smu.ac.kr/smubiz/index.do)
+subtitle: Department of Business Administration, <a href='https://smubiz.smu.ac.kr/smubiz/index.do'>Sangmyung University</a>
 
 profile:
   align: right
@@ -27,13 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Current Position**
-* Associate Professor, Department of Business Administration, [Sangmyung University](https://smubiz.smu.ac.kr/smubiz/index.do) (Mar. 2021 – Present)
-
-**Education**
-* Ph.D. in Industrial and Management Engineering, POSTECH (Sep. 2009 – Aug. 2014)
-* B.S. in Industrial and Management Engineering, POSTECH (Mar. 2001 – Feb. 2008)
-
 **Research Interests**
 * Business Data Analytics
 * Information & Knowledge Management
@@ -41,3 +34,10 @@ latest_posts:
 * Network Analysis & Social Network Analysis (SNA)
 * Data Envelopment Analysis (DEA)
 * R&D Management & Research Policy
+
+**Education**
+* Ph.D. in Industrial and Management Engineering, POSTECH (Sep. 2009 – Aug. 2014)
+* B.S. in Industrial and Management Engineering, POSTECH (Mar. 2001 – Feb. 2008)
+
+**Academic & Work Careers**
+* Associate/Assistant Professor, Department of Business Administration, [Sangmyung University](https://smubiz.smu.ac.kr/smubiz/index.do) (Mar. 2021 – Present)
