@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Department of Business Administration, [Sangmyung University](https://smubiz.smu.ac.kr/smubiz/index.do)
 
 profile:
   align: right
